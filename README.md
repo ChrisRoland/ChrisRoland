@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisRoland
-- 👀 I’m interested in web development
+- 👀 I’m interested in Software Engineering & Technical Writing
 - 🌱 I’m currently learning JS,React and Python
 - 💞️ I’m looking to collaborate on Learning Ruby
 - 📫 How to reach me chrisebuberoland@gmail.com / https://twitter.com/ChrisEbubeRolnd
