@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering & Technical Writing
 - 🌱 I’m currently learning JS,React and Python
 - 💞️ I’m looking to collaborate on Learning Ruby also looking out for internships
-- 📫 Reach me at chrisebuberoland@gmail.com / https://twitter.com/ChrisEbubeRolnd
+- 📫 Reach me at chrisebuberoland@gmail.com / https://twitter.com/ChrisEbubeRolnd / https://linkedin.com/in/chris-roland-27012b1b9/
 
 <!---
 ChrisRoland/ChrisRoland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
