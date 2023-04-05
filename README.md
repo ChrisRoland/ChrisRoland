@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @ChrisRoland
+- 👋 Hi, I’m Chris Ebube Roland
+- 😊 Pronouns: He/him
+- 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
 - 👀 I’m interested in Software Engineering & Technical Writing
-- 🌱 I’m currently learning JS,React and Python
-- 💞️ I’m looking to collaborate on Learning Ruby also looking out for internships
+- 🌱 I’m currently learning React, NextJS and Python.
+- 💞️ I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Front Engineer, or Technical Writer(Intern or Junior level).
 - 📫 Reach me at chrisebuberoland@gmail.com / https://twitter.com/ChrisEbubeRolnd / https://linkedin.com/in/chris-roland-27012b1b9/
 
 <!---
