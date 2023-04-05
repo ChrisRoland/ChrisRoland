@@ -4,7 +4,7 @@
 - 👀 I’m interested in Software Engineering & Technical Writing
 - 🌱 I’m currently learning React, NextJS and Python.
 - 💞️ I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Technical Writer(Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, or Technical Writer (All at Intern or Junior level).
 - 📫 Reach me at chrisebuberoland@gmail.com / https://twitter.com/ChrisEbubeRolnd / https://linkedin.com/in/chris-roland-27012b1b9/
 
 <!---
