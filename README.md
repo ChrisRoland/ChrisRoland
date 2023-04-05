@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Ebube Roland
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+- 💡 Fun fact: I'm currently studying at ALX Africa School of Software Engineering Cohort #13.
 - 👀 I’m interested in Software Engineering & Technical Writing
 - 🌱 I’m currently learning React, NextJS and Python.
 - 💞️ I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
