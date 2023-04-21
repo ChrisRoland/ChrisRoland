@@ -8,7 +8,7 @@
 - 📫 Reach me at chrisebuberoland@gmail.com / https://twitter.com/ChrisEbubeRolnd / https://linkedin.com/in/chris-roland-27012b1b9/
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Chris's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Chris's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisRoland&show_icons=true&include_all_commits=true&hide_border=true" alt="Chris's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRoland&langs_count=8&layout=compact&hide_border=true" alt="Chris's GitHub stats" /> |
 19
 | ------------- | ------------- |
 
