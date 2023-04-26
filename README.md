@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Chris Ebube Roland
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at ALX Africa School of Software Engineering Cohort #13.
+- 💡 Fun fact: I'm currently studying at ALX Africa School of Software Engineering Cohort #13, I enjoy building personal projects, gaming and Anime 😊
 - 👀 I’m interested in Software Engineering & Technical Writing
 - 🌱 I’m currently learning React, NextJS and Python.
 - 💞️ I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Technical Writer (All at Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front-end Engineer, or Technical Writer (All at Intern or Junior level).
 - 📫 Reach me at; chrisebuberoland@gmail.com
 
 [![Website Badge](https://img.shields.io/badge/-chrisroland.hashnode.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://chrisroland.hashnode.dev)](https://chrisroland.hashnode.dev) [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) [![Linkedin Badge](https://img.shields.io/badge/-chrisebuberoland?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-roland-27012b1b9)](https://www.linkedin.com/in/chrisebuberoland)
