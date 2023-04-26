@@ -12,6 +12,7 @@ chrisebuberoland@gmail.com /
 [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd)
 
 [![Linkedin Badge](https://img.shields.io/badge/-chris-roland-27012b1b9-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-roland-27012b1b9)](https://www.linkedin.com/in/chris-roland-27012b1b9)
+[![Linkedin Badge](https://img.shields.io/badge/-chris-roland-27012b1b9?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-roland-27012b1b9)](https://www.linkedin.com/in/chris-roland-27012b1b9)
 
 [![Website Badge](https://img.shields.io/badge/-chrisroland.hashnode.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://chrisroland.hashnode.dev)](https://chrisroland.hashnode.dev)
 
