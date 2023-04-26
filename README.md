@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning React, NextJS and Python.
 - 💞️ I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Technical Writer (All at Intern or Junior level).
-- 📫 Reach me at;
+- 📫 Reach me at;<br>
 chrisebuberoland@gmail.com / 
+
 [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd)
 
 [![Linkedin Badge](https://img.shields.io/badge/-chris-roland-27012b1b9-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-roland-27012b1b9)](https://www.linkedin.com/in/chris-roland-27012b1b9)
