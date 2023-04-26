@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Technical Writer (All at Intern or Junior level).
 - 📫 Reach me at;
+
 chrisebuberoland@gmail.com / 
 [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd)
 
