@@ -7,7 +7,7 @@
 - 💼 Job interests: Software Engineer, Front-end Engineer, or Technical Writer (All at Intern or Junior level).
 - 📫 Reach me at; chrisebuberoland@gmail.com
 
-[![Website Badge](https://img.shields.io/badge/-chrisroland.hashnode.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://chrisroland.hashnode.dev)](https://chrisroland.hashnode.dev) [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) [![Linkedin Badge](https://img.shields.io/badge/-chrisebuberoland?style=for-the-badge&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chrisebuberoland)](https://www.linkedin.com/in/chrisebuberoland)
+[![Website Badge](https://img.shields.io/badge/-chrisroland.hashnode.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://chrisroland.hashnode.dev)](https://chrisroland.hashnode.dev) [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) [![Linkedin Badge](https://img.shields.io/badge/-chrisebuberoland?style=for-the-badge&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chrisebuberoland/)](https://www.linkedin.com/in/chrisebuberoland/)
 
 
 ---
