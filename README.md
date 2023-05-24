@@ -1,4 +1,5 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1> , I’m Chris Ebube Roland
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I’m Chris Ebube Roland</h1>
+
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at ALX Africa School of Software Engineering Cohort #13, I enjoy building personal projects, gaming and Anime 😊
 - 👀 I’m interested in Software Engineering & Technical Writing
@@ -7,7 +8,9 @@
 - 💼 Job interests: Software Engineer, Front-end Engineer, or Technical Writer (All at Intern or Junior level).
 - 📫 Reach me at; chrisebuberoland@gmail.com
 
-[![Website Badge](https://img.shields.io/badge/-chrisroland.hashnode.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://chrisroland.hashnode.dev)](https://chrisroland.hashnode.dev) [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) [![Linkedin Badge](https://img.shields.io/badge/-chrisebuberoland?style=for-the-badge&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chrisebuberoland/)](https://www.linkedin.com/in/chrisebuberoland/)
+[![Website Badge](https://img.shields.io/badge/-chrisroland.hashnode.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://chrisroland.hashnode.dev)](https://chrisroland.hashnode.dev) [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) <a href="https://www.linkedin.com/in/chrisebuberoland">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 
 
 ---
