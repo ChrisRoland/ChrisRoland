@@ -11,7 +11,6 @@
 [![Website Badge](https://img.shields.io/badge/-chrisroland.hashnode.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://chrisroland.hashnode.dev)](https://chrisroland.hashnode.dev) [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) <a href="https://www.linkedin.com/in/chrisebuberoland">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChrisRoland" alt="ChrisRoland" /> </p>
 
 ---
 
