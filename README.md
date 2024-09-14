@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> , I’m Chris Ebube Roland</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px" width="40px"></img> , I’m Chris Ebube Roland</h1>
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I enjoy building personal projects, gaming, and Anime 😊
