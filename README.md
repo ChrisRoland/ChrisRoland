@@ -1,11 +1,11 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I’m Chris Ebube Roland</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> , I’m Chris Ebube Roland</h1>
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at ALX Africa School of Software Engineering Cohort #13, I enjoy building personal projects, gaming, and Anime 😊
-- 👀 I’m interested in Software Engineering & Technical Writing
-- 🌱 I’m currently learning React, NextJS, and Python.
-- 💞️ I want to collaborate on open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer, or Technical Writer (All at Intern or Junior level).
+- 💡 Fun fact: I enjoy building personal projects, gaming, and Anime 😊
+- 👀 I’m interested in Software Development & Technical Writing
+- 🌱 I’m currently learning TS, NodeJS, and Python.
+- 💞️ I want to collaborate on open-source projects, hackathons, internships, and development opportunities.
+- 💼 Job interests: Web Developer, Front-end Engineer, or Technical Writer.
 - 📫 Reach me at; chrisebuberoland@gmail.com
 
 [![Website Badge](https://img.shields.io/badge/-medium.com/@chrisebuberoland-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://medium.com/@chrisebuberoland)](https://medium.com/@chrisebuberoland) [![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) <a href="https://www.linkedin.com/in/chrisebuberoland">
