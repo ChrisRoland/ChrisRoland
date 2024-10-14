@@ -44,7 +44,7 @@ Let's connect and work together to build awesome projects!
 ![Chris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisRoland&theme=github-green-purple&hide_border=true&card_width=900px)
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Let's%20Connect&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=venom&height=190&color=gradient&text=Let's%20Connect&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30)
 <!---
 ChrisRoland/ChrisRoland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
