@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome&fontColor=ffffff&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30&fontAlign=50&fontAlignY=35)
+
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px" width="40px"></img> , I’m Chris Ebube Roland</h1>
 
 I'm a dedicated Software Developer, Technical Writer, and Open Source evangelist. I am fascinated with the Tech Development world and am dedicated to learning more about software engineering and computer science. I also enjoy sharing my knowledge with the tech community and the world at large through my articles.
@@ -35,14 +37,14 @@ Let's connect and work together to build awesome projects!
 <!--![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)--> 
 <!--![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Frame 5](https://user-images.githubusercontent.com/69016682/194751119-3014be96-74bc-4156-8620-366b67884583.png)--> 
 ---
-![](https://github-readme-stats.vercel.app/api?username=ChrisRoland&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&line_height=25&card_width=900px&show_icons=true&rank_icon=github)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisRoland&show_icons=true&include_all_commits=true&hide_border=true" alt="Chris's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRoland&langs_count=8&layout=compact&hide_border=true" alt="Chris's GitHub stats" /> |
 | ------------- | ------------- |
 
+![Chris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisRoland&theme=github-green-purple&hide_border=true&card_width=900px)
 
 
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Let's%20Connect&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30)
 <!---
 ChrisRoland/ChrisRoland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
