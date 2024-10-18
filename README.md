@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome&fontColor=ffffff&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30&fontAlign=50&fontAlignY=35)
 
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px" width="40px"></img> , I’m Chris Ebube Roland</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px" width="40px"></img> I’m Chris Ebube Roland</h1>
 
 I'm a dedicated Software Developer, Technical Writer, and Open Source evangelist. I am fascinated with the Tech Development world and am dedicated to learning more about software engineering and computer science. I also enjoy sharing my knowledge with the tech community and the world at large through my articles.
 
