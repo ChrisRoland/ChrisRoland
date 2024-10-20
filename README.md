@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome&fontColor=ffffff&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30&fontAlign=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome!&fontColor=ffffff&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30&fontAlign=50&fontAlignY=35)
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px" width="40px"></img> I’m Chris Ebube Roland</h1>
 
@@ -45,7 +45,7 @@ Let's connect and work together to build awesome projects!
 ![Chris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisRoland&theme=github-green-purple&hide_border=true&card_width=900px)
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=190&color=gradient&text=Let's%20Connect&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=venom&height=190&color=gradient&text=Let's%20Connect!%20&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30)
 <!---
 ChrisRoland/ChrisRoland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
