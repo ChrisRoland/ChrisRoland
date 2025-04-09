@@ -4,15 +4,18 @@
 
 I'm a dedicated Software Developer, Technical Writer, and Open Source evangelist. I am fascinated with the Tech Development world and am dedicated to learning more about software engineering and computer science. I also enjoy sharing my knowledge with the tech community and the world at large through my articles.
 
-As a developer who is driven, curious, and committed to creating high-quality code, I am constantly seeking new challenges and opportunities to learn new technologies. I believe that by embracing new technologies, we can create innovative solutions that can improve the world.
+As a driven, curious developer, I am committed to creating high-quality code and constantly seeking new challenges and opportunities to learn new technologies. I believe that by embracing new technologies, we can create innovative solutions that can improve the world.
 
 Let's connect and work together to build awesome projects!
 
-[![Website Badge](https://img.shields.io/badge/-medium.com/@chrisebuberoland-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://medium.com/@chrisebuberoland)](https://medium.com/@chrisebuberoland) 
-[![Twitter Badge](https://img.shields.io/badge/-@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) <!-- <a href="https://www.linkedin.com/in/chrisebuberoland">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">-->
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%2300599C.svg?style=for-the-badge&logo=linkedin%2B%2B&logoColor=white&link=https://www.linkedin.com/in/chrisebuberoland)](https://www.linkedin.com/in/chrisebuberoland)
-    </a>
+<!-- [![Website Badge](https://img.shields.io/badge/-medium.com/@chrisebuberoland-808080?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://medium.com/@chrisebuberoland)](https://medium.com/@chrisebuberoland) -->
+[![YouTube Badge](https://img.shields.io/badge/-youtube.com/@chrisebuberoland-ff0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.com/@chrisebuberoland)](https://youtube.com/@chrisebuberoland) 
+[![Medium Badge](https://img.shields.io/badge/-medium.com/@chrisebuberoland-808080?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@chrisebuberoland)](https://medium.com/@chrisebuberoland) 
+[![Twitter Badge](https://img.shields.io/badge/-X.com/@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) 
+[![LinkedIn Badge](https://img.shields.io/badge/-linkedIn.com/@chrisebuberoland-%2300599C?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisebuberoland)](https://www.linkedin.com/in/chrisebuberoland)
+<!-- <a href="https://www.linkedin.com/in/chrisebuberoland">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>-->
 
 <hr/>
 <!-- This is a comment -->
