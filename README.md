@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px" width="40px"></img> I’m Chris Ebube Roland</h1>
 
-A dedicated Software Developer, Technical Writer, and Open Source evangelist. I am fascinated with the Tech Development world and am dedicated to learning more about software engineering and computer science. I also enjoy sharing my knowledge with the tech community and the world at large through my articles.
+A dedicated Software Developer, Technical Writer, and Open Source evangelist. I am fascinated with the Tech Development world and am dedicated to learning more about software engineering and computer science. I also enjoy sharing my knowledge with the tech community and the world at large through the dev content I create.
 
 As a driven, curious developer, I am committed to creating high-quality code and constantly seeking new challenges and opportunities to learn new technologies. I believe that by embracing new technologies, we can create innovative solutions that can improve the world.
 
