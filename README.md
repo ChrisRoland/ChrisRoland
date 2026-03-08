@@ -9,6 +9,9 @@ As a driven, curious developer, I am committed to creating high-quality code and
 Let's connect and work together to build awesome projects!
 
 <!-- [![Website Badge](https://img.shields.io/badge/-medium.com/@chrisebuberoland-808080?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://medium.com/@chrisebuberoland)](https://medium.com/@chrisebuberoland) -->
+<a href="https://youtube.com/@chrisebuberoland" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/-youtube.com/@chrisebuberoland-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 [![YouTube Badge](https://img.shields.io/badge/-youtube.com/@chrisebuberoland-ff0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://youtube.com/@chrisebuberoland)](https://youtube.com/@chrisebuberoland) 
 [![Medium Badge](https://img.shields.io/badge/-medium.com/@chrisebuberoland-808080?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@chrisebuberoland)](https://medium.com/@chrisebuberoland) 
 [![Twitter Badge](https://img.shields.io/badge/-X.com/@ChrisEbubeRolnd-1ca0f1?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/ChrisEbubeRolnd)](https://twitter.com/ChrisEbubeRolnd) 
